@@ -1,5 +1,10 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
+## Hi, i'm a Full Stack Developer With a Passionate Love to Milanesas!
+- Buenos Aires, Argentina
+- Email: Santino.Antelo@outlook.es
+- Studies: Tecnica N°1 Colon, Monte Grande
+- Skills: qBasic, C++, HTML, CSS, JS, Java, C#, .NET, SQL, MySql, Python
+
+
 <!--
 **Shadouuh/Shadouuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
