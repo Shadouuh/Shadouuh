@@ -8,17 +8,20 @@ Aprendí a programar en C++ para posteriormente cambiarme a Python. Luego me ade
 ## Tecnologias
 <h3>Programacion Orientada a Objetos (Poo)</h3>
 <div style="display: inline-block"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-    " style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="align: center; border-radius: 15px; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
 </div>
 
 <div style="display: inline-block"> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
+    
+</div>
+<h3>Web</h3>
+<div style="display: inline-block"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
 </div>
 <h3>Base de Datos</h3>
 <div style="display: inline-block"> 
