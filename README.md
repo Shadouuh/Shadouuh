@@ -1,10 +1,5 @@
 ## Hola, soy Antelo 👋 | Desarrollador Full-Stack
-Me apasiona resolver algoritmos complejos y encontrar soluciones a problemas complicados. No temo equivocarme ni hacer preguntas, ya que prefiero resolver mis dudas lo antes posible. En equipo, me esfuerzo por ser eficiente y aportar código de calidad, buscando optimización, escalabilidad y el uso de buenas prácticas, aplicando el principio DRY.
-
-Aprendí a programar en C++ para posteriormente cambiarme a Python. Luego me adentré en la programación orientada a objetos con:
-- Java
-- .NET
-- PHP
+<center>React <3</center>
 ## Tecnologias
 <h3>Programacion Orientada a Objetos (Poo)</h3>
 <div style="display: inline-block"> 
