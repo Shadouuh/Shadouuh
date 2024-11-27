@@ -1,36 +1,43 @@
-## Hola, soy Antelo 👋 | Desarrollador Full-Stack
-<center>React <3</center>
-## Tecnologias
-<h3>Programacion Orientada a Objetos (Poo)</h3>
-<div style="display: inline-block"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-</div>
+# Hola, soy Antelo 👋 | Desarrollador Full-Stack
+- JS <3
+- Desarrollador de AnjuJS
+- Desarrollador de Book-Nook
+<h1 align="center">Tecnologias</h1>
+<h3 align="center">
+    Programacion
+</h3>
 
-<div style="display: inline-block"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    
-</div>
-<h3>Web</h3>
-<div style="display: inline-block"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-</div>
-<h3>Base de Datos</h3>
-<div style="display: inline-block"> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-</div>
-<h3>Programacion Imperativa</h3>
-<div style="display: inline-block"> 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="align: center; border-radius: 15px; margin-right: 10px;">
-    </div>
-    
-## Contactos:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,java,vite,nodejs,cs,dotnet,php,git,tailwind,cpp,python,html,css&perline=4" />
+  </a>
+</p>
+
+<h3 align="center">
+    Bases de Datos
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql&perline=2" />
+  </a>
+</p>
+
+<h3 align="center">
+    IDE
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode&perline=2" />
+  </a>
+</p>
+<h1 align="left">Contactos</h1>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Santino.Antelo@outlook.es)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi.ante@hotmail.com.ar)
+
+
