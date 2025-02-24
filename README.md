@@ -1,41 +1,14 @@
-# Hola, soy Antelo 👋 | Desarrollador Full-Stack
-- JS <3
-<h1 align="center">Tecnologias</h1>
-<h3 align="center">
-    Programacion
-</h3>
+👋 Hola, soy Antelo | Desarrollador Full-Stack
+💛 JavaScript Lover | 🚀 Apasionado por la tecnología y el desarrollo de software
 
+📌 Stack Tecnológico: Me especializo en el desarrollo de aplicaciones frontend y backend, combinando rendimiento, escalabilidad y buenas prácticas.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,java,vite,nodejs,cs,dotnet,php,git,tailwind,cpp,python,html,css&perline=4" />
-  </a>
-</p>
-
-<h3 align="center">
-    Bases de Datos
-</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql&perline=2" />
-  </a>
-</p>
-
-<h3 align="center">
-    IDE
-</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,trae&perline=3" />
-  </a>
-</p>
-<h1 align="left">Contactos</h1>
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi.ante@hotmail.com.ar)
-
-
+🛠️ Tecnologías
+🎨 Frontend
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,vite&perline=4" /> </a> </p>
+🖥️ Backend
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,php,dotnet,cs,java,python,cpp&perline=4" /> </a> </p>
+🗄️ Bases de Datos
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=firebase,mysql&perline=2" /> </a> </p>
+🛠️ Herramientas & IDEs
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git&perline=3" /> </a> </p>
