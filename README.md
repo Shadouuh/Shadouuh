@@ -1,7 +1,5 @@
 # Hola, soy Antelo 👋 | Desarrollador Full-Stack
 - JS <3
-- Desarrollador de AnjuJS
-- Desarrollador de Book-Nook
 <h1 align="center">Tecnologias</h1>
 <h3 align="center">
     Programacion
