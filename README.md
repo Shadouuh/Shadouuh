@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode&perline=2" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,trae&perline=3" />
   </a>
 </p>
 <h1 align="left">Contactos</h1>
