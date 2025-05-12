@@ -1,7 +1,7 @@
 # 👋 Hola, soy Antelo | Desarrollador Full-Stack  
 💛 **JavaScript Lover** | 🚀 Apasionado por la tecnología y el desarrollo de software  
 📌 **Desarrollador de AnjuJS** | 📚 **Estudiante de la Tecnicatura en Programación en la Técnica N°1**  
-🏢 **CEO de Tango Development** | 🧠 **Entusiasta de los algoritmos y la optimización de código**  
+🏢 **Director de Lagoom** | 🧠 **Entusiasta de los algoritmos y la optimización de código**  
 
 Me especializo en el desarrollo de aplicaciones **frontend** y **backend**, combinando rendimiento, escalabilidad y buenas prácticas.  
 
