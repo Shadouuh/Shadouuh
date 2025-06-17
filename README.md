@@ -6,8 +6,6 @@
 Me especializo en el desarrollo de aplicaciones **frontend** y **backend**, combinando rendimiento, escalabilidad y buenas prácticas.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadouuh&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanerros&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirom10&show_icons=true&theme=tokyonight)
 ---
 
 ## 🛠️ Tecnologías  
