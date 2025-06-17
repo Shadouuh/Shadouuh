@@ -7,7 +7,7 @@ Me especializo en el desarrollo de aplicaciones **frontend** y **backend**, comb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadouuh&show_icons=true&theme=tokyonight)
 
----
+--
 
 ## 🛠️ Tecnologías  
 
